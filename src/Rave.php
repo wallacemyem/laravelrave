@@ -194,7 +194,7 @@ class Rave
 
         echo '<html>';
         echo '<body>';
-        echo '<center>Proccessing...<br /><img style="height: 50px;" src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" /></center>';
+        echo '<center>Proccessing...<br /><img style="height: 50px;" src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" /></center>';
         echo '<script type="text/javascript" src="' . $this->baseUrl . '/flwv3-pug/getpaidx/api/flwpbf-inline.js"></script>';
         echo '<script>';
         echo 'document.addEventListener("DOMContentLoaded", function(event) {';
